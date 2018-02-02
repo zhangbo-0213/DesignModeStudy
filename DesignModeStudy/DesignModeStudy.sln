@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_简单工厂模式", "01_简单工厂模式\01_简单工厂模式.csproj", "{ADC3EE8A-FB69-4375-A5A4-F2B4C7054649}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_简单工厂模式2", "02_简单工厂模式2\02_简单工厂模式2.csproj", "{320998D8-D03C-488E-BD3C-26A5A19D1464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_策略模式", "03_策略模式\03_策略模式.csproj", "{56C88FDE-9014-4077-9747-D5C426EB7CB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ADC3EE8A-FB69-4375-A5A4-F2B4C7054649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC3EE8A-FB69-4375-A5A4-F2B4C7054649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC3EE8A-FB69-4375-A5A4-F2B4C7054649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320998D8-D03C-488E-BD3C-26A5A19D1464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320998D8-D03C-488E-BD3C-26A5A19D1464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320998D8-D03C-488E-BD3C-26A5A19D1464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320998D8-D03C-488E-BD3C-26A5A19D1464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C88FDE-9014-4077-9747-D5C426EB7CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C88FDE-9014-4077-9747-D5C426EB7CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C88FDE-9014-4077-9747-D5C426EB7CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C88FDE-9014-4077-9747-D5C426EB7CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
