@@ -14,7 +14,7 @@ namespace _03_策略模式
         //    cash = cs;
         //}   
 
-        //将策略模式与简单工厂模式相结合后，选择的具体实现职责可以由Context对象来承担，减轻客户端的职责。
+        //将策略模式与简单工厂模式相结合后，选择的具体实现职责可以由Context对象来承担，减轻客户端的职责。     
         public CashContext(string str) {
             switch (str) {
                 case "正常收费":
