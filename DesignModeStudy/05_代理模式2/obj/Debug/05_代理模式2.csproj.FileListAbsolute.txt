@@ -1,0 +1,6 @@
+E:\msysgit\DesignModeStudy\DesignModeStudy\05_代理模式2\bin\Debug\05_代理模式2.exe.config
+E:\msysgit\DesignModeStudy\DesignModeStudy\05_代理模式2\bin\Debug\05_代理模式2.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\05_代理模式2\bin\Debug\05_代理模式2.pdb
+E:\msysgit\DesignModeStudy\DesignModeStudy\05_代理模式2\obj\Debug\05_代理模式2.csproj.CoreCompileInputs.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\05_代理模式2\obj\Debug\05_代理模式2.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\05_代理模式2\obj\Debug\05_代理模式2.pdb
