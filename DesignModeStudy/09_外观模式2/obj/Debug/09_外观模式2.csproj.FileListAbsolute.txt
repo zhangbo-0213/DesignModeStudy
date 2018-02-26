@@ -1,0 +1,7 @@
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\bin\Debug\09_外观模式2.exe.config
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\bin\Debug\09_外观模式2.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\bin\Debug\09_外观模式2.pdb
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\obj\Debug\09_外观模式2.csprojResolveAssemblyReference.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\obj\Debug\09_外观模式2.csproj.CoreCompileInputs.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\obj\Debug\09_外观模式2.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\09_外观模式2\obj\Debug\09_外观模式2.pdb
