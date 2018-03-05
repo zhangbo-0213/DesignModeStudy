@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_建造者模式2", "10_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_观察者模式", "11_观察者模式\11_观察者模式.csproj", "{FD6DAF6E-8AFD-4A25-9AC7-071D0A45887A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_抽象工厂模式", "12_抽象工厂模式\12_抽象工厂模式.csproj", "{8F96F89D-0CA8-42F3-9B3D-DCB60BD06577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_抽象工厂模式改进_反射+简单工厂模式", "12_抽象工厂模式改进_反射+简单工厂模式\12_抽象工厂模式改进_反射+简单工厂模式.csproj", "{60A01BC0-6B14-4A60-9405-CA4C3B73700F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{FD6DAF6E-8AFD-4A25-9AC7-071D0A45887A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD6DAF6E-8AFD-4A25-9AC7-071D0A45887A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD6DAF6E-8AFD-4A25-9AC7-071D0A45887A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F96F89D-0CA8-42F3-9B3D-DCB60BD06577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F96F89D-0CA8-42F3-9B3D-DCB60BD06577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F96F89D-0CA8-42F3-9B3D-DCB60BD06577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F96F89D-0CA8-42F3-9B3D-DCB60BD06577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A01BC0-6B14-4A60-9405-CA4C3B73700F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A01BC0-6B14-4A60-9405-CA4C3B73700F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A01BC0-6B14-4A60-9405-CA4C3B73700F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A01BC0-6B14-4A60-9405-CA4C3B73700F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
