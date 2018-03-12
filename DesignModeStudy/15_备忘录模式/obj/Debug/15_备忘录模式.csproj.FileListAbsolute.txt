@@ -1,0 +1,7 @@
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\bin\Debug\15_备忘录模式.exe.config
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\bin\Debug\15_备忘录模式.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\bin\Debug\15_备忘录模式.pdb
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\obj\Debug\15_备忘录模式.csprojResolveAssemblyReference.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\obj\Debug\15_备忘录模式.csproj.CoreCompileInputs.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\obj\Debug\15_备忘录模式.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\15_备忘录模式\obj\Debug\15_备忘录模式.pdb
