@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_组合模式", "16_组�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_组合模式2", "16_组合模式2\16_组合模式2.csproj", "{EC58136D-503E-42D1-B867-0DA940F7786A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_迭代器模式", "17_迭代器模式\17_迭代器模式.csproj", "{D00B69BC-04B4-4AE9-A373-3FC0B8BB21BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_迭代器模式2", "17_迭代器模式2\17_迭代器模式2.csproj", "{FE976423-C933-49E9-8E8A-7C2CF6A96C53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{EC58136D-503E-42D1-B867-0DA940F7786A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC58136D-503E-42D1-B867-0DA940F7786A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC58136D-503E-42D1-B867-0DA940F7786A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00B69BC-04B4-4AE9-A373-3FC0B8BB21BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00B69BC-04B4-4AE9-A373-3FC0B8BB21BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00B69BC-04B4-4AE9-A373-3FC0B8BB21BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00B69BC-04B4-4AE9-A373-3FC0B8BB21BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE976423-C933-49E9-8E8A-7C2CF6A96C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE976423-C933-49E9-8E8A-7C2CF6A96C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE976423-C933-49E9-8E8A-7C2CF6A96C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE976423-C933-49E9-8E8A-7C2CF6A96C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
