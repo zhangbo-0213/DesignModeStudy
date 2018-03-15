@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IEnumerable1.cs" />
+    <Compile Include="IEnumerable2.cs" />
+    <Compile Include="IEnumerable3.cs" />
     <Compile Include="IEnumerator1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
