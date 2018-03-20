@@ -1,11 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _17_迭代器模式2
 {
+    //foreach 内部实现
+    // IEnumerator  e=a.GetEnumerator();
+    //while(e.MoveNext()){
+    //return e.Current;
+    //}
     class Program
     {
         static void Main(string[] args)
