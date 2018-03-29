@@ -15,7 +15,6 @@ namespace _19_桥接模式
         }
 
         public virtual void Operation() {
-            implementor.Operation();
-        }
+                }
     }
 }

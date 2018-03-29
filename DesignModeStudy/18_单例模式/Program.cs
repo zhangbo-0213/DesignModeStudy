@@ -15,7 +15,7 @@ namespace _18_单例模式
             if (s1 == s2)
                 Console.WriteLine("S1和S2是同一个实例");
 
-            Console.ReadKey();
+            Console.ReadKey();                                                                     
         }
     }
 }
