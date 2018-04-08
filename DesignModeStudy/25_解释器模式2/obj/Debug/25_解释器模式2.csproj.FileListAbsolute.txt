@@ -1,0 +1,7 @@
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\bin\Debug\25_解释器模式2.exe.config
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\bin\Debug\25_解释器模式2.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\bin\Debug\25_解释器模式2.pdb
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\obj\Debug\25_解释器模式2.csprojResolveAssemblyReference.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\obj\Debug\25_解释器模式2.csproj.CoreCompileInputs.cache
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\obj\Debug\25_解释器模式2.exe
+E:\msysgit\DesignModeStudy\DesignModeStudy\25_解释器模式2\obj\Debug\25_解释器模式2.pdb
